@@ -1,0 +1,231 @@
+.container{
+	border: 1px solid black;
+	margin:0px auto;
+	width: 810px;
+	height: 950px;
+}
+.header{
+	width: 100%;
+	height: 100px;
+	border: 1px solid black;
+	float: left;
+}
+.logo{
+	margin: 5px;
+	width: 70px;
+	height: 50px;
+	float: left;
+	border: 1px solid black;
+}
+.button{
+	float: right;
+	margin: 5px;
+}
+.headlink{
+	float: left;
+	width: 810px;
+	height: 30px
+}
+.linkweb{
+	margin-left: 5px;
+	height: 30px;
+	float: left;
+}
+.link{
+	float: right;
+	margin-left: 10px;
+	height: 30px;
+	width: 55px;
+}
+.menu{
+	
+	float: left;
+	height: 30px;
+	width: 810px;
+	padding-top:5px;
+	background-color: #E7E5E5; 
+}
+.home{
+	margin-left: 10px;
+}
+.noidungbentrai{
+	width: 600px;
+	height: 650px;
+	border: 1px solid black;
+	float: left;
+}
+.sanphammoi{
+	width: 600px;
+	height: 40px;
+}
+.spm{
+	padding-left:5px;
+	width: 590px;
+	color: #E5E1E1;
+	float: left;
+	border-bottom: 1px solid #F2EDED;
+}
+.noidung{
+	height: 200px;
+	width: 600px;
+	float: left;
+	border: 1px solid black;
+}
+.vanban{
+	
+	float: left;
+/*	padding: 5px;*/
+	width: 370px;
+	height: 105px;
+	border: 1px solid black;
+}
+.abc{
+	margin-top: 5px;
+}
+.abcd{
+	margin-top: -10px;
+}
+.listimg{
+	width: 600px;
+	height: 90px;
+	float: left;
+	border: 1px solid black;
+}
+.listlogo{
+	margin: 5px;
+	float: left;
+	height: 75px;
+	width: 108px;
+	border: 1px solid black;
+}
+.hinhanh{
+	padding: 5px;
+	width: 200px;
+	height: 100px;
+	float: left;
+}
+.tintuc{
+	width: 600px;
+	height: 20px;
+	float: left;
+}
+.headertintuc{
+	border-bottom: 1px solid #F2EDED;
+	margin: 5px;
+	height: 100%;
+
+}
+.sukien{
+	padding-top: 20px;
+	float: left;
+	height: 230px;
+	width: 600px;
+}
+.sukien1{
+	height: 100px;
+}
+.sukien2{
+	margin-top: -50px;
+
+}
+.hang1{
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.hang2{
+	width: 580px;
+	margin-top: -10px;
+	margin-left: 5px;
+	border-bottom: 1px dotted black;
+	color: blue;
+}
+.banner{
+	margin-left: 5px;
+	width: 580px;
+	height: 100px;
+	float: left;
+	border: 1px solid black;
+	text-align: center;
+}
+.noidungbenphai{
+	width: 200px;
+	height: 650px;
+	border: 1px solid black;
+	float: right;
+}
+.linklienquan{
+	padding-left:5px;
+	width: 190px;
+	height: 300px;
+	color: #E5E1E5;
+	float: left;
+	border-bottom: 1px solid #F2EDED;
+}
+.duoilink{
+	float: left;
+}
+.banner1{
+	border-radius: 10%;
+	margin-left: 5px;
+	width: 180px;
+	height: 100px;
+	float: left;
+	border: 1px solid black;
+	text-align: center;
+
+}
+.banner2{
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-left: 5px;
+	width: 180px;
+	height: 100px;
+	float: left;
+	border: 1px solid black;
+	text-align: center;
+}
+.banner3{
+	border-radius: 10%;
+	margin-top: 5px;
+	margin-left: 5px;
+	width: 180px;
+	height: 100px;
+	float: left;
+	border: 1px solid black;
+	text-align: center;
+}
+.footer{
+	width: 100%;
+	height: 100px;
+	float: left;
+/*	border: 1px solid black;*/	
+}
+.duongke{
+	border: 1px solid black;
+	width: 808px;
+	float: left;
+
+}
+.fleft{
+	float: left;
+	width: 500px;
+	height: 120px;
+	padding-left: 5px;
+/*	border: 1px solid black;*/
+}
+.tft{
+	margin-top: 5px;
+}
+.tft1{
+	margin-top: 5px;
+}
+.fright{
+	margin: 10px;
+	width: 270px;
+	height: 120px;
+	float: left;
+/*	border: 1px solid black;*/
+}
+.copy{
+	float: right;
+}

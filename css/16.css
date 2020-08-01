@@ -1,0 +1,82 @@
+.container{
+	margin: 0px auto;
+	width: 1200px;
+	height: 600px;
+	border: 1px solid black;
+}
+.khungtren{
+	width: 1200px;
+	height: 100px;
+	border: 1px solid black;
+}
+.khungtrai{
+	/*margin-top: 100px;*/
+	width: 250px;
+	height: 498px;
+	border: 1px solid black;
+	float: left;
+}
+.noidung{
+	width: 946px;
+	height:496px;
+	border: 1px solid black;
+	float: left;
+}
+h2{
+	margin-top: 50px;
+	text-align: center;
+}
+a{
+	padding-left: 10px;
+}
+{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+#anhvachu{
+	width: 904px;
+	height: 300px;
+	padding: 20px;
+	float: left;
+	/*border: 1px solid black;*/
+}
+#noidung{
+	width: 700px;
+}
+#anh1{
+	width: 120px;
+	height: 120px;
+	float: left;
+	border: 1px solid blue;
+}
+
+
+
+.vanban{
+	margin-top: 20px;
+	padding: 20px;
+	float: left;
+	/*border: 1px solid black;*/
+	width: 700px;
+}
+.img{
+	margin-top: 20px;
+	float: right;
+	width: 200px;
+	/*border: 1px solid black;*/
+	height: 198px
+}
+h3{
+	margin-top: 50px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
